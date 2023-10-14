@@ -9,7 +9,7 @@ https://icd.who.int/browse11/l-m/en
 https://icd.who.int/dev11/l-ichi/en
 
 The classifiers are represented as browseable trees at those links. Their linearized TSV files can be downloaded here:
-https://icd.who.int/dev11/downloads/
+https://icd.who.int/dev11/downloads/ (Simplified Outputs)
 
 ```
 usage: who-int-to-json.py [-h] [--tsv FILE] [--skip_residual] [--skip_duplicates] [--index_word_limit N] [--limit N] [--batch_tag TAG]
